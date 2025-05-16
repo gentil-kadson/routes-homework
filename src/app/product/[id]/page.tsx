@@ -10,6 +10,7 @@ export default function Product() {
       <h2 className="text-xl">
         Essa é a página do produto <strong>{id}</strong>
       </h2>
+      <p>Não perca tempo, compre antes que acabe! 🤩🤩</p>
     </main>
   );
 }
